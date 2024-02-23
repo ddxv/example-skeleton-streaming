@@ -1,0 +1,6 @@
+{
+	"/": [],
+	"/slow": [
+		"src/routes/slow/+page.server.ts"
+	]
+}
